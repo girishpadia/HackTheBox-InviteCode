@@ -1,6 +1,6 @@
 # HackTheBox-InviteCode
 
-Hack The Box (https://www.hackthebox.eu/) requires you to generate and Invite Code in order to SignUp first. You should first try to generate the Invite Code by the hints given on their website. I used following command to generate the Invite code which may help you (But I discourage you to use it).
+Hack The Box (https://www.hackthebox.eu/) requires you to generate an Invite Code in order to SignUp first. You should first try to generate the Invite Code by the hints given on their website. I used following command/script to generate the Invite code which may help you (But I discourage you to use it. Hack it at your own first).
 
 ## Linux Command
 ```
